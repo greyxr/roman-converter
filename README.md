@@ -7,7 +7,7 @@ The program starts by asking for the type of conversion wanted. If '1' is entere
   - Function implentation
   - Improvements
 
-## Functions:
+## Functions
 
 ### main:
 Main doesn't do much here. It declares the integers, type, and roman variables, and then has a loop that runs getInput until it returns false.
